@@ -1,0 +1,22 @@
+.pipopi {
+    width: 20em;
+    height: 5em;
+    margin: 50px auto;
+    border: 2px solid black;
+    border-radius: 10px;
+    font-size: 2em;
+ 
+    text-align: center;
+    transition: 1s;
+}
+
+.pipopi:hover{
+    color:white;
+}
+body{
+    transition: 1s; 
+    font-family: Arial, Helvetica, sans-serif;
+}
+h1{
+    text-align: center;
+}
